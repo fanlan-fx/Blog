@@ -69,7 +69,7 @@
     <dependency>
         <groupId>org.mybatis</groupId>
         <artifactId>mybatis</artifactId>
-        <version>3.4.6</version>
+        <version>3.5.6</version>
     </dependency>
     <!-- 构建一个简单的具备事务管理功能的数据访问应用程序 -->
     <dependency>
